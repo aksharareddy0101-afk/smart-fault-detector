@@ -1,0 +1,8 @@
+# Simulator output
+*.vcd
+*.vvp
+
+# Editor temporary files
+*.swp
+*.swo
+*~
